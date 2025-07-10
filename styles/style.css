@@ -168,10 +168,12 @@ main{
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.my-degree{
-    width: 511px;
-    height: 175px;
+.resume-columns{
+    width: 500px;
+    
 }
-.degree-section{
+.resume{
     display: flex;
+    margin-left: 300px;
+    gap: 50px;
 }
