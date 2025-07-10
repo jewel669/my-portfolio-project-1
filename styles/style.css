@@ -154,3 +154,24 @@ main{
     margin: 0 auto;
     margin-top: 100px;
 }
+.working-site{
+    width: 267px;
+    height: 350px;
+    background-color: #feeaea;
+    border:1px solid rgb(12, 12, 11);
+    padding: 10px;
+    border-radius: 10px;
+}
+.working-parent{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.my-degree{
+    width: 511px;
+    height: 175px;
+}
+.degree-section{
+    display: flex;
+}
